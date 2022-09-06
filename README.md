@@ -17,3 +17,16 @@ Directions to travel from airport to museum.
 * Santorini
 
 [About Ranjith](https://github.com/Ranjith811/assignment2-Vungarala/blob/main/AboutMe.md)
+
+---
+# Cities to visit
+
+Table includes Name of the city and the important location to visit that cit as well as time to spend for that location.
+
+
+|  Name      |  Location  | Amount to pay  |
+| ---------- | ---------- | -------------- |
+| Hyderabad  | Charminar  | 30 minutes     |
+| Agra       | Tajmahal   | 30 minutes     |
+| Delhi      |India Gate  | 1 hours        |
+|Mumbai      |Taj Palace  | 3 hours        |
