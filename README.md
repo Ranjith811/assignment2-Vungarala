@@ -9,3 +9,9 @@ Directions to travel from airport to museum.
     1. Then you will reach the wolfsburg Hauptbahnhof with in half an hour.
     2. we need to walk 1mile.
 1. We will reach our Foundation Auto Museum Volkswagen, Dieselstraße 35, 38446 Wolfsburg, Germany.
+* phaeno science center
+* VW Pavaillon
+    * Volkswagen Arena
+    * VfL-Stadion
+* Campingplatz
+* Santorini
