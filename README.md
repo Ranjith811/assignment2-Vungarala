@@ -2,6 +2,7 @@
 # Ranjith Sai Venkat Vungarala
 ###### Stiftung Automuseum Volkswagen
 This museum holds one of the worlds **finest automobile collection** and always have a desire to vist such places to experience a **classic vintage collections**.
+
 ---
 Directions to travel from airport to museum.
 1. Hannover Flughafen go to S5 towards Paderborn Hbf.
@@ -30,3 +31,8 @@ Table includes Name of the city and the important location to visit that cit as 
 | Agra       | Tajmahal   | 30 minutes     |
 | Delhi      |India Gate  | 1 hours        |
 |Mumbai      |Taj Palace  | 3 hours        |
+
+---
+#Pithy quotes
+> It's hard to beat a person who never give up. -*Babe Ruth*<br>
+> All the so-called 'secrets of success' will not work unless you do. -*Jaymin Shah*
