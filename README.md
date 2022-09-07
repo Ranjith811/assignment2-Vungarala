@@ -22,10 +22,10 @@ Directions to travel from airport to museum.
 ---
 # Cities to visit
 
-Table includes Name of the city and the important location to visit that cit as well as time to spend for that location.
+Table includes Name of the city and the important location to visit that city as well as time to spend for that location.
 
 
-|  Name      |  Location  | Amount to pay  |
+|  Name      |  Location  | Time to spend  |
 | ---------- | ---------- | -------------- |
 | Hyderabad  | Charminar  | 30 minutes     |
 | Agra       | Tajmahal   | 30 minutes     |
