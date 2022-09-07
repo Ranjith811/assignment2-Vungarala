@@ -36,3 +36,19 @@ Table includes Name of the city and the important location to visit that cit as 
 #Pithy quotes
 > It's hard to beat a person who never give up. -*Babe Ruth*<br>
 > All the so-called 'secrets of success' will not work unless you do. -*Jaymin Shah*
+
+---
+#Iphone catcher
+>An international mobile subscriber identity-catcher, or IMSI-catcher, is a telephone eavesdropping device used for intercepting mobile phone traffic and tracking location data of mobile phone users.[1] Essentially a "fake" mobile tower acting between the target mobile phone and the service provider's real towers, it is considered a man-in-the-middle (MITM) attack. The 3G wireless standard offers some risk mitigation due to mutual authentication required from both the handset and the network.[2] However, sophisticated attacks may be able to downgrade 3G and LTE to non-LTE network services which do not require mutual authentication.
+
+[More about iphone catcher](https://en.wikipedia.org/wiki/IMSI-catcher)
+
+```
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} .*iPhone.*
+RewriteRule ^index\.html$ http://www.mobile.mydomain.com [L]
+RewriteRule  ^/$ http://www.mydomain.com/index.html [L]
+</IfModule>
+```
+[iPhone Catcher](https://stackoverflow.com/questions/2636775/tool-to-monitor-http-traffic)
